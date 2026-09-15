@@ -1,19 +1,10 @@
-{
-  "name": "hyderabad-tdr-intelligence",
-  "version": "1.0.0-f1a93a2917b7",
-  "description": "Hyderabad TDR Market Intelligence — Second Real Estate — Flagship Final Stable — 82vh MapLibre — Time machine 1/17/27/47/76/111/159/196/240 — 12s animation",
-  "private": true,
-  "type": "module",
+﻿{
+  "name": "second-land",
+  "version": "1.0.0",
+  "description": "Deterministic spatial financial model for TDR in Hyderabad (Compiled Demo)",
   "scripts": {
-    "dev": "vite --open",
-    "build": "vite build",
-    "preview": "vite preview --open",
-    "serve": "python3 -m http.server 8000"
+    "start": "npx serve ."
   },
-  "keywords": ["hyderabad", "tdr", "maplibre", "real-estate", "openfreemap", "swiss-editorial"],
-  "license": "MIT",
-  "browserslist": {
-    "production": [">0.5%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
-  }
+  "author": "Shreyesh Reddy",
+  "license": "MIT"
 }
