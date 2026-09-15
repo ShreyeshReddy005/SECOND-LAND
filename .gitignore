@@ -1,0 +1,14 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.pyc
+__pycache__/
+.env
+.idea/
+.vscode/
+
+# Ignore scratch scripts from AI dev session
+*.py
+!fix_repo.py
